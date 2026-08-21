@@ -332,5 +332,3 @@ The project helps answer:
 **Gauri Sutar**
 
 Data Analyst | Data Engineer | Data Science & ML Enthusiast
-
-```
